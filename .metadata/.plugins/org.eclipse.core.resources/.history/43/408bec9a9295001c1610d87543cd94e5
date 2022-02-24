@@ -1,0 +1,16 @@
+package br.com.alura.forum.controller;
+
+import java.util.List;
+
+import org.springframework.stereotype.Controller;
+
+import br.com.alura.forum.modelo.Topico;
+
+@Controller
+public class TopicosController {
+	
+	public List<Topico> lista(){
+		
+	}
+
+}
